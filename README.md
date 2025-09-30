@@ -18,4 +18,4 @@ Frameworks et outils : utilisation de frameworks (Symfony, React, etc.) et IDEs 
 
 ## Contact
 - Email : huloic43@gmail.com  
-- LinkedIn : https://www.linkedin.com/in/loic-hu-9bb295382/
+- LinkedIn : https://www.linkedin.com/in/loichu/
